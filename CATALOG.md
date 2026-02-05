@@ -1,8 +1,8 @@
 # Skill Catalog
 
-Generated at: 2026-02-04T08:08:20.870Z
+Generated at: 2026-02-05T01:10:43.461Z
 
-Total skills: 631
+Total skills: 632
 
 ## architecture (62)
 
@@ -298,7 +298,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `viral-generator-builder` | Expert in building shareable generator tools that go viral - name generators, quiz makers, avatar creators, personality tests, and calculator tools. Covers t... | viral, generator, builder | viral, generator, builder, building, shareable, go, name, generators, quiz, makers, avatar, creators |
 | `webapp-testing` | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing... | webapp | webapp, testing, toolkit, interacting, local, web, applications, playwright, supports, verifying, frontend, functionality |
 
-## general (129)
+## general (130)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -426,6 +426,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `using-git-worktrees` | Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with sma... | using, git, worktrees | using, git, worktrees, starting, feature, work, isolation, current, workspace, before, executing, plans |
 | `using-superpowers` | Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions | using, superpowers | using, superpowers, starting, any, conversation, establishes, how, find, skills, requiring, skill, invocation |
 | `verification-before-completion` | Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output... | verification, before, completion | verification, before, completion, about, claim, work, complete, fixed, passing, committing, creating, prs |
+| `vibe-coding-master` | V5: The Meta-Architect. Orchestrates ALL skills (dynamic scan), auto-documents in 'Symbiosis Log', maintains 'Tech Glossary', and manages the 'Exocortex Dash... | vibe, coding, master | vibe, coding, master, v5, meta, architect, orchestrates, all, skills, dynamic, scan, auto |
 | `web-performance-optimization` | Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance | web, performance, optimization | web, performance, optimization, optimize, website, application, including, loading, speed, core, vitals, bundle |
 | `windows-privilege-escalation` | This skill should be used when the user asks to "escalate privileges on Windows," "find Windows privesc vectors," "enumerate Windows for privilege escalation... | windows, privilege, escalation | windows, privilege, escalation, skill, should, used, user, asks, escalate, privileges, find, privesc |
 | `writing-plans` | Use when you have a spec or requirements for a multi-step task, before touching code | writing, plans | writing, plans, spec, requirements, multi, step, task, before, touching, code |

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-04T08:08:20.870Z",
-  "total": 631,
+  "generatedAt": "2026-02-05T01:10:43.461Z",
+  "total": 632,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -14811,6 +14811,32 @@
         "skill"
       ],
       "path": "skills/vexor/SKILL.md"
+    },
+    {
+      "id": "vibe-coding-master",
+      "name": "vibe-coding-master",
+      "description": "V5: The Meta-Architect. Orchestrates ALL skills (dynamic scan), auto-documents in 'Symbiosis Log', maintains 'Tech Glossary', and manages the 'Exocortex Dashboard' (Web).",
+      "category": "general",
+      "tags": [
+        "vibe",
+        "coding",
+        "master"
+      ],
+      "triggers": [
+        "vibe",
+        "coding",
+        "master",
+        "v5",
+        "meta",
+        "architect",
+        "orchestrates",
+        "all",
+        "skills",
+        "dynamic",
+        "scan",
+        "auto"
+      ],
+      "path": "skills/vibe-coding-master/SKILL.md"
     },
     {
       "id": "viral-generator-builder",

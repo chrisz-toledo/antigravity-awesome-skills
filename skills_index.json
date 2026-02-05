@@ -5463,6 +5463,15 @@
     "source": "https://github.com/scarletkc/vexor"
   },
   {
+    "id": "vibe-coding-master",
+    "path": "skills/vibe-coding-master",
+    "category": "uncategorized",
+    "name": "vibe-coding-master",
+    "description": "V5: The Meta-Architect. Orchestrates ALL skills (dynamic scan), auto-documents in 'Symbiosis Log', maintains 'Tech Glossary', and manages the 'Exocortex Dashboard' (Web).",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
     "id": "viral-generator-builder",
     "path": "skills/viral-generator-builder",
     "category": "uncategorized",
